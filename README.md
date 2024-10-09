@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kai-feinberg
 
 - 👀 I’m a Northwestern student interested in innovative technologies
-- 🌱 I’m currently learning solidity and blockchain development
 - 💞️ I’m looking to collaborate on cool impactful projects
 - 📫 Twitter: @kai_rypto25
 
