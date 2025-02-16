@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kai-feinberg
 
-- 👀 I’m a Northwestern student interested in innovative technologies
+- 👀 I’m a Northwestern student interested in agentic ai systems
 - 💞️ I’m looking to collaborate on cool impactful projects
 - 📫 Twitter: @kai_rypto25
 
